@@ -93,4 +93,8 @@
 	#services .service-bottom {
 	width: 100%;
 }
+
+	#services .service-item {
+		flex-basis: 100%;
+}
 }
