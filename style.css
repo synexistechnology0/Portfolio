@@ -108,6 +108,8 @@ font-weight: 600;
   object-fit: contain;
   display: block;
 }
+
+
 #header {
 	position: fixed;
 	z-index: 1000;
@@ -260,7 +262,7 @@ font-weight: 600;
 
 /* Hero Section */
 #hero {
-	background-image:url(./banner-1.png);
+	background-image:url(./img/banner-1.png);
 	background-size: cover;
     position: relative;
 	z-index: 1;
@@ -716,7 +718,7 @@ color: #fff;
 	}
 
 	#hero .hero {
-		padding: 150px 20px;
+		padding: 100px 20px;
 	}
 	h1.section-title {
 		font-size: 2.5rem;
