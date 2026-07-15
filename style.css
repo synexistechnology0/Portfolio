@@ -262,7 +262,7 @@ font-weight: 600;
 
 /* Hero Section */
 #hero {
-	background-image:url(./img/banner-1.png);
+	background-image:url(./banner-1.png);
 	background-size: cover;
     position: relative;
 	z-index: 1;
