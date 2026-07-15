@@ -787,9 +787,3 @@ color: #fff;
 .project-link:hover .project-img img {
   transform: scale(1.05);
 }
-@media only screen and (max-width: 768px) {
-
-#hero h1:nth-child(3) {
-    font-size: 32px;
-}
-	}
