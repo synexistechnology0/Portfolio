@@ -716,7 +716,10 @@ color: #fff;
 	#hero h1 {
 		font-size: 3rem;
 	}
-
+#hero h1:nth-child(3){
+	font-size:32px;
+}
+	
 	#hero .hero {
 		padding: 150px 20px;
 	}
